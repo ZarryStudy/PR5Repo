@@ -10,6 +10,7 @@ namespace SysINFO
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
+    /// Изменения в ветке1-1
     /// </summary>
     public partial class App : Application
     {
